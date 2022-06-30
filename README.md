@@ -5,4 +5,4 @@
 
 ### SCREEN DEL PROYECTO
 
-<img src="https://raw.githubusercontent.com/Jose-developer-start/api-rest-cat-js/main/images/screen/creen.png" width="400">
+<img src="https://raw.githubusercontent.com/Jose-developer-start/api-rest-cat-js/main/images/screen/creen.png" width="800">
